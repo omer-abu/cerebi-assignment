@@ -1,0 +1,167 @@
+[
+  {
+    "id": "101",
+    "route": {
+      "origin": "Tokyo",
+      "destination": "Tel-Aviv"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1764486678945,
+    "currentStatus": "picked-up",
+    "timeAtCurrentStatus": 524
+  },
+  {
+    "id": "102",
+    "route": {
+      "origin": "Los Angeles",
+      "destination": "London"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1765706558517,
+    "currentStatus": "delivered",
+    "timeAtCurrentStatus": 93
+  },
+  {
+    "id": "103",
+    "route": {
+      "origin": "Berlin",
+      "destination": "Los Angeles"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1765803805326,
+    "currentStatus": "delivered",
+    "timeAtCurrentStatus": 386
+  },
+  {
+    "id": "104",
+    "route": {
+      "origin": "New York",
+      "destination": "Sydney"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1765588888902,
+    "currentStatus": "picked-up",
+    "timeAtCurrentStatus": 346
+  },
+  {
+    "id": "105",
+    "route": {
+      "origin": "Berlin",
+      "destination": "Sydney"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1763886270531,
+    "currentStatus": "picked-up",
+    "timeAtCurrentStatus": 157
+  },
+  {
+    "id": "106",
+    "route": {
+      "origin": "Berlin",
+      "destination": "London"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1764299209803,
+    "currentStatus": "delivered",
+    "timeAtCurrentStatus": 675
+  },
+  {
+    "id": "107",
+    "route": {
+      "origin": "Tel-Aviv",
+      "destination": "Singapore"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1764402982750,
+    "currentStatus": "picked-up",
+    "timeAtCurrentStatus": 93
+  },
+  {
+    "id": "108",
+    "route": {
+      "origin": "Tokyo",
+      "destination": "Paris"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1765833394807,
+    "currentStatus": "arrived-at-hub",
+    "timeAtCurrentStatus": 7
+  },
+  {
+    "id": "109",
+    "route": {
+      "origin": "Berlin",
+      "destination": "New York"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1764967294104,
+    "currentStatus": "in-transit",
+    "timeAtCurrentStatus": 5
+  },
+  {
+    "id": "110",
+    "route": {
+      "origin": "Los Angeles",
+      "destination": "Sydney"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1764377658455,
+    "currentStatus": "in-transit",
+    "timeAtCurrentStatus": 367
+  },
+  {
+    "id": "111",
+    "route": {
+      "origin": "Toronto",
+      "destination": "Los Angeles"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1765725856043,
+    "currentStatus": "delivered",
+    "timeAtCurrentStatus": 68
+  },
+  {
+    "id": "112",
+    "route": {
+      "origin": "Berlin",
+      "destination": "Tokyo"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1765518347415,
+    "currentStatus": "pending-pickup",
+    "timeAtCurrentStatus": 377
+  },
+  {
+    "id": "113",
+    "route": {
+      "origin": "London",
+      "destination": "Paris"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1764198345845,
+    "currentStatus": "in-transit",
+    "timeAtCurrentStatus": 418
+  },
+  {
+    "id": "114",
+    "route": {
+      "origin": "Berlin",
+      "destination": "Singapore"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1765412098104,
+    "currentStatus": "pending-pickup",
+    "timeAtCurrentStatus": 229
+  },
+  {
+    "id": "115",
+    "route": {
+      "origin": "London",
+      "destination": "New York"
+    },
+    "purchasedAtHoliday": false,
+    "expectedDeliveryDate": 1765182473493,
+    "currentStatus": "delivered",
+    "timeAtCurrentStatus": 633
+  }
+]
