@@ -81,7 +81,8 @@ But I will also consider creating a ML model based system a very high priority w
 ## Part 2 - UI Design
 #### Dashboard Design
 
-![[ShipmentsDashboard.jpg]]
+![ShipmentsDashboard.jpg](./ShipmentsDashboard.jpg)
+
 
 #### Communication between backend and frontend
 The most fitting communication approach for this type of dashboard is **Server-Sent Events** (SSE).
